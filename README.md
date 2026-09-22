@@ -13,7 +13,7 @@ Provided here is the link to the data that is displayed here.
 [link text](https://ingoldwetrust.report/chart-performance-table-gold-silver/?lang=en)
 
 
-**Windspeed Data***
+**Windspeed Data**
 
 ![Visualization 1](/websiteimage2.png)
 ***About this graph***
