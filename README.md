@@ -5,7 +5,7 @@
 
 
 ![Visualization 1](/websiteimage1.png)
-***About this graog***
+***About this graph***
 Here is a display of the value of gold spanning all the way from the year 9170 to more recent years, such as 2020. Early development of gold and the economy shows that the price of gold in the past would be viewed as a “cheap” commodity by today’s standards. You can also notice that the price of gold between the years 1990 and about 2005 started to even out and stagnate, but then, after that, closer to 2010, the price of gold skyrocketed. One of those possibilities could stem from the state of the domestic economy and geopolitical reasons. Displayed on this graph is the ratio between gold and silver. This was another thing I found interesting because silver slowly started to become more prevalent in comparison to gold in price, even as high as 80% in the later years from 2020 closer to the present day.
 *Soruce*
 Provided here is the link to the data that is displayed here.  
@@ -30,7 +30,7 @@ Both graphs were created in RStudio, using the mplot function to present and man
 
 
 
-![Visualization 1](/visual2hw1.png)
+
 
 
 
