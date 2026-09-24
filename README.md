@@ -23,6 +23,10 @@ Weather has many variables that can be measured, 2 of which are wind speed and t
 [link text](https://weatherspark.com/h/y/3709/2025/Historical-Weather-during-2025-in-Denver-Colorado-United-States)
 
 
+![Visualization 1](worldlife1.png)
+
+
+
 
 
 **software sources**
