@@ -10,7 +10,7 @@ Here is a display of the value of gold spanning all the way from the year 1970 t
 *Source*
 Provided here is the link to the data that is displayed here.  
 
-[link text](https://ingoldwetrust.report/chart-performance-table-gold-silver/?lang=en)
+[source](https://ingoldwetrust.report/chart-performance-table-gold-silver/?lang=en)
 
 
 **Windspeed Data**
@@ -20,7 +20,7 @@ Provided here is the link to the data that is displayed here.
 Weather has many variables that can be measured, 2 of which are wind speed and temperature. Exactly placed here is a scatter plot displaying the relationship between the two in three different locations in the beautiful state of Colorado. Just looking at this scatterplot, I noticed a couple of things; one is between all three cities, as the temperature approaches 0 degrees Celsius, all the way to 20 degrees. The three locations have a relatively similar pattern. However, the city of Lamar does stand out as an outlier for the pattern. As the temperature increases, Lamar exponentially increases wind speed. Alamosa also breaks out the mold and has a massive increase in the middle temperatures. But Denver stays consistent the entire way. I do find this to be interesting because Denver is a more city/metropolitan area compared to Alamosa and Lamar. This fact, as well as population size, could play a part in why Denver is the only city that stays relatively in the middle of this entire scatterplot. 
 *Source*
 
-[link text](https://weatherspark.com/h/y/3709/2025/Historical-Weather-during-2025-in-Denver-Colorado-United-States)
+[source](https://weatherspark.com/h/y/3709/2025/Historical-Weather-during-2025-in-Denver-Colorado-United-States)
 
 
 ![Visualization 1](worldlife1.png)
