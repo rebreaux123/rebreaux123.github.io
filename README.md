@@ -27,6 +27,8 @@ Weather has many variables that can be measured, 2 of which are wind speed and t
 
 ***Summary***
 
+Here is a world map of life expectancy by age on each continent. One thing I notice is that, overall, the world trend tends to be higher in the 70s and 80s, with a couple of outliers. This brings us to the continent of Africa. Unlike the majority, I find it more interesting that southern Africa has a much lower life expectancy between the ages of 50 and 60, while the northern part of Africa has a much higher expectancy between 70 and 80. The history of Africa and its geopolitical standing definitely play a big part in why it is the way it is.
+
 
 
 
