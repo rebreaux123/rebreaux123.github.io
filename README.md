@@ -40,8 +40,20 @@ This visual shows the rate of precipitation rate of each county in the big state
 
 
 
+![Visualization 1](democloud01.png) 
+
+
+
+
+
+
+
+
+
 **software sources**
-Both graphs were created in RStudio, using the mplot function to present and manipulate each chart. 
+Both graphs were created in RStudio 
+
+
 
 
 
