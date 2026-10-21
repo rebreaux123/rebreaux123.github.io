@@ -45,6 +45,14 @@ This visual shows the rate of precipitation rate of each county in the big state
 
 
 
+![Visualization 1](colorhw1.png) 
+
+
+
+![Visualization 1](plot_zoom_png.png) 
+
+
+
 
 
 
