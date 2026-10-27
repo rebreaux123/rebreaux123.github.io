@@ -53,6 +53,10 @@ This visual shows the rate of precipitation rate of each county in the big state
 
 
 
+![Visualization 1](outofcountry.png) 
+
+
+Displayed here is the is the quantity of people leaving the U.S. to foreign countries 
 
 
 
