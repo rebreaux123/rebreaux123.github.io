@@ -69,7 +69,7 @@ Displayed here is the is the quantity of people leaving the U.S. to foreign coun
 [Interactive Display](https://ds.palladur.com/user/rbreaux2/files/Dat2002/Image_files/pq1.html?_xsrf=MnwxOjB8MTA6MTc5NDQ2MDQyNXw1Ol94c3JmfDEzMjpaRFl5T1RjMk1qTmlNekJtTkdGalltRXhPRGhpWVRnMk9XUXdPR0ppTUdRNlpETXhNR00zWm1VMll6UTVaRGd3WTJNMU1XTmlNMkV3TURGbE1EWmpPV1ZsTW1FMU9URmxaRGt6T0dVeE16UmpOVEl3T1RWak16SmxOVGRoTURsbFl3PT18N2IxYzFkOTNiODcwZWQ0NWE3MTg0MjdmMWE0YTFkMDBmMzA1OTk5Yjk4MjYxMmYxMjMyMzQxYzQ5M2Y4NzQ4OA
 )
 ***Summary***
-This link shows the top 5 states that foreigners travel to. Typically, coastal states would be the expectation for a plethora of reasons, such as popularity for travel locations and ports. What stands out is Ohio for being ranked as the 5th most traveled state by foreigners. Another point to notice is that Texas is ranked 1st by a considerable margin. With Texas continuously growing in popularity and business growth , this could play a part in why Texas is ranked number one. Along with having some famous cities like Houston, Dallas, and the progressively growing Austin. 
+This link shows the top 5 states that foreigners traveled to in 2024. Typically, coastal states would be the expectation for a plethora of reasons, such as their popularity as travel destinations and major ports. What stands out is Ohio ranking as the 5th most-visited state by foreigners. Another point to notice is that Texas is ranked 1st by a considerable margin. Texas's continuous growth in popularity and business likely plays a part in why it is ranked number one, along with having major cities like Houston, Dallas, and the rapidly growing Austin.
 
 
 [source](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
