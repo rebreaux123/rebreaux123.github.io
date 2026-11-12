@@ -79,7 +79,7 @@ This link shows the top 5 states that foreigners traveled to in 2024. Typically,
 ![Visualization 1](/my_sankey.html)
 
 
-[Interactive Display](file:///C:/Users/futur/Downloads/my_sankey.html)
+[Interactive Display](my_sankey.html)
 
 **software sources**
 Both graphs were created in RStudio 
