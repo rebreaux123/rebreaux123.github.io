@@ -1,3 +1,8 @@
+body {
+  background-color: gray;
+}
+
+
 # Rashad Breaux
 *Dat 2002*
 **The Story of Gold**
