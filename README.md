@@ -51,9 +51,10 @@ This visual shows the rate of precipitation rate of each county in the big state
 ***Summary*** 
 This display illustrates the relationship between a vehicle's fuel efficiency, measured in miles per gallon (MPG), and the number of cylinders in its engine. As shown, a wide variety of brands offer four-cylinder vehicles, supporting the general trend that vehicles with fewer cylinders tend to achieve higher MPG. In contrast, most vehicles in this dataset have eight-cylinder engines and the lowest fuel efficiency.
 
-![Visualization 1](annotehw.png) 
+![Visualization 1](annotatehw.png) 
 ***Summary***
-Using the same dataset, I gathered additional information regarding the relationship between vehicle displacement—the cumulative volume displaced by the pistons, which correlates closely with power generation and towing capacity—and horsepower.
+Using the same dataset, I gathered additional information regarding the relationship between vehicle displacement—the cumulative volume displaced by the pistons, which correlates closely with power generation and towing capacity—and horsepower. Notably, the majority of vehicles fall on the low-to-medium end of the trend line, following the general pattern that a vehicle with a larger displacement produces more horsepower. 
+
 
 ![Visualization 1](plot_zoom_png.png) 
 
